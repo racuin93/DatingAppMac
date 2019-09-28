@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C3C5F9BC-4FAE-4BB5-9475-0E8609204373}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AuthController.cs">
+    <Files>
+      <File FileName="Controllers/AuthController.cs" Line="27" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DatingApp.API" expanded="True">
+            <Node name="DatingApp.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DatingApp.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
